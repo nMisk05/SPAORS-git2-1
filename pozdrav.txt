@@ -1,2 +1,2 @@
-Zdravo, Dejane Popov !
-Zdravo i tebi !
+Zdravo, <ime prezime> !
+Zdravo i tebi <ime> !
