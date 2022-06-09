@@ -1,2 +1,5 @@
 "zdravo nikola miskovic" 
+<<<<<<< HEAD
+
+=======
 
